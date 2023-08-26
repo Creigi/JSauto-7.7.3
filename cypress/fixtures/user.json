@@ -1,0 +1,25 @@
+{
+  "initialData":
+    {
+      "id": 123,
+      "username": "petro",
+      "firstName": "Petya",
+      "lastName": "Petrov",
+      "email": "Petrov@gmail.com",
+      "password": "1234",
+      "phone": "888888",
+      "userStatus": 3  
+    },
+
+  "changedData":
+    {
+      "id": 123,
+      "username": "petro",
+      "firstName": "Petya",
+      "lastName": "Petrov",
+      "email": "Petrov@petya.com",
+      "password": "qwerty",
+      "phone": "777777",
+      "userStatus": 3  
+    }  
+}
